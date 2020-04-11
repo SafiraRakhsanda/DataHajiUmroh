@@ -1,23 +1,179 @@
 <resources>
     <string name="app_name">DataHajiUmroh</string>
-    <string name="syarat1">1. Rukun Islam yang Kelima</string>
-    <string name="surah1">QS. Ali Imran : 97</string>
-    <string name="hadist1">HR. Bukhari no 8 dan Muslim no 16</string>
-    <string name="syarat2">2. Mendapatkan Surga</string>
-    <string name="hadist2">HR. Bukhari 177, Muslim no 1349 serta Abu Hurairah r.a</string>
-    <string name="syarat3">3. Menghilangkan Dosa dan Kemiskinan</string>
-    <string name="hadist3">HR. Tirmidzi dan An – Nasa’i, disahihkan oleh Al – Albani dalam As – Sahihah no 1200</string>
-    <string name="syarat4">4. Haji Merupakan Jihad Bagi Wanita</string>
-    <string name="hadist4">HR. Bukhari no 1520</string>
-    <string name="hadist5">HR. Ibnu Majah no 2901 dishahihkan Al – Albani dalam Al – Irwaa no 981</string>
-    <string name="syarat5">5. Bagi Laki–laki Haji Mabrur Merupakan Amalan Terbaik Setelah Jihad</string>
-    <string name="hadist6">HR. Bukhari no 26 dan Muslim no 135</string>
-    <string name="syarat6">6. Menghapus Seluruh Dosa</string>
-    <string name="hadist7">HR. Bukhari no 1521 dan Muslim no 1350</string>
-    <string name="syarat7">7. Pahala Berlimpah Ruah</string>
-    <string name="hadist8">Shahih Ibnu Khuzaimah no 1984, dinyatakan oleh syaikh Al – Albani, Hasan Lighairihi</string>
-    <string name="surah2">QS. Al – Hajj : 27</string>
-    <string name="hadist9">HR. Ibnu Majah no 2884, dihasankan oleh Al – Albani dalam As – Shahihah no 1820</string>
-    <string name="hadist10">HR. Bukhari no 1593</string>
-    <string name="hadist11">HR. Ibnu MAjah no 2874 dishahihkan Al – Albani Tetapi Dilemahkan Beberapa Ulama</string>
+    <string name="keutamaan">Keutamaan Haji</string>
+    <string name="desc0">Terdapat dalam Al-Qur\'an, sebagai berikut :</string>
+    <string name="desc1">Terdapat dalam Al-Qur\'an dan Hadits, sebagai berikut :</string>
+    <string name="desc2">Terdapat dalam Hadits, sebagai berikut :</string>
+    <string name="desc3">di shahihkan oleh Al-Albani dalam</string>
+    <string name="desc4">di nyatakan oleh Syaikh Al-Albani</string>
+    <string name="desc5">di hasankan oleh Al-Albani dalam</string>
+    <string name="desc6">Artinya</string>
+    <string name="next">BERIKUTNYA</string>
+    <string name="skip">LEWATI</string>
+    <string name="_1_rukun_islam_yg_kelima">1. Rukun Islam yang Kelima</string>
+    <string name="aliimran97">وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا
+    \n\n
+    “Mengerjakan haji adalah kewajiban manusia terhadap Allah, yaitu bagi yang sanggup mengadakan perjalanan ke baitullah” (QS Ali-Imran 97).</string>
+    <string name="qs_ali_imran_97">QS. Ali-Imran : 97</string>
+    <string name="hr_bukhari8_muslim16">HR Al-Bukhari no 8 dan Muslim no 16</string>
+    <string name="nr_bukharimuslim816">بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالحَجِّ، وَصَوْمِ رَمَضَانَ
+    \n\n
+    “Islam dibangun di atas 5 rukun, syahadatain, menegakan sholat, menunaikan zakat, berhaji, dan berpuasa di bulan Ramadhan” (Hadits Riwayat Al-Bukhari no 8 dan Muslim no 16).</string>
+    <string name="_2_mendapatkan_surga">2. Mendapatkan Surga</string>
+    <string name="hr_bukhari1773_muslim1349">HR Al-Bukhari 1773 dan Muslim no 1349 dan Abu Hurairah r.a</string>
+    <string name="hr_bukharimuslim1749">الْعُمْرَةُ إِلَى الْعُمْرَةِ كَفَّارَةٌ لِمَا بَيْنَهُمَا، وَالْحَجُّ الْمَبْرُورُ لَيْسَ لَهُ جَزَاءٌ إِلاَّ الْجَنَّةُ
+    \n\n
+    “Sesungguhnya umrah yang satu hingga umrah yang berikutnya merupakan penebus dosa-dosa yang ada diantara kedua umrah tersebut, dan haji yang mabrūr tidak ada balasan baginya yang setimpal kecuali surga.” (Hadits Riwayat Al-Bukhari no 1773 dan Muslim no 1349 dari hadits Abu Hurairah r.a).</string>
+    <string name="_3_menghilangkan_dosa">3. Menghilangkan Dosa &amp; Kemiskinan</string>
+    <string name="hr_tirmidzi_annasai1200">HR Tirmidzi dan An-Nasa\'i</string>
+    <string name="hr_tirmidziannasai1200">تَابِعُوا بَيْنَ الْحَجِّ وَالْعُمْرَةِ فَإِنَّهُمَا يَنْفِيَانِ الْفَقْرَ وَالذُّنُوبَ كَمَا يَنْفِي الْكِيرُ خَبَثَ الْحَدِيدِ وَالذَّهَبِ وَالْفِضَّةِ وَلَيْسَ لِلْحَجَّةِ الْمَبْرُورَةِ ثَوَابٌ إِلَّا الْجَنَّةَ
+    \n\n
+    “Tunaikanlah haji dan umrah secara silih berganti, karena haji dan umrah itu bisa menghilangkan kefakiran dan juga bisa menghilangkan dosa-dosa sebagaimana alat tiup pandai besi untuk menghilangkan kotoran besi/karat besi, emas, dan perak” (Hadits Riwayat Tirmidzi dan An Nasai, dan dishahihkan oleh Al-Albani dalam As-Shahihah No. 1200)</string>
+    <string name="assahihah1200">As-Shahihah no 1200</string>
+    <string name="_4_haji_merupakan_jihad">4. Haji Merupakan Jihad Bagi Wanita</string>
+    <string name="hr_bukhari_1520">HR Al-Bukhari no 1520</string>
+    <string name="hr_bukhari1520">يَا رَسُولَ اللَّهِ، نَرَى الجِهَادَ أَفْضَلَ العَمَلِ، أَفَلاَ نُجَاهِدُ؟ قَالَ: «لاَ، لَكُنَّ أَفْضَلُ الجِهَادِ حَجٌّ مَبْرُورٌ
+    \n\n
+    “Wahai Rasulullah, kami (para wanita) melihat bahwasanya jihad merupakan amal yang terbaik, apakah kita (kami para wanita) tidak berjihad?”. Jawab Nabi shallallahu ‘alayhi wa sallam: “Laa (tidak), bagi kalian (para wanita) ada jihad yang terbaik yaitu haji mabrur.” (HR Al-Bukhari no 1520, Sebagian Ulama Memberi Harokat Sebagai Berikut : لَكِنَّ أَفْضَلَ الجِهَادِ حَجٌّ مَبْرُورٌ Sehingga Artinya : “Akan Tetapi Jihad yang Paling Afdol Adalah Haji Mabrur”, dan Ini Semakin Menunjukkan Keutamaan Haji Mabrur Sehingga Mencakup Wanita dan Lelaki).</string>
+    <string name="hr_ibnumajah_2901">HR Ibnu Majah no 2901</string>
+    <string name="hr_ibnumajah2901">قُلْتُ: يَا رَسُولَ اللَّهِ عَلَى النِّسَاءِ جِهَادٌ؟ قَالَ: ” نَعَمْ عَلَيْهِنَّ جِهَادٌ لَا قِتَالَ فِيهِ: الْحَجُّ وَالْعُمْرَةُ
+    \n\n
+    “Aku bertanya wahai Rasūlullāh, apakah wajib bagi para wanita untuk berjihād?”, Kata Rasūlullāh shallallāhu ‘alayhi wa sallam: “Iya, wajib bagi kalian untuk berjihād yang tidak ada peperangan di dalamnya (yaitu) haji dan umrah.” (HR Ibnu Maajah no 2901).</string>
+    <string name="alirwaa_981">Al-Irwaa no 981</string>
+    <string name="alirwaa981">Jadi gan ini tuh diskip gra2 aku ga nemu hadis nya maap</string>
+    <string name="_5_bagi_laki_haji">5. Bagi Laki-laki Haji Mabrur Merupakan Amalan Terbaik Setelah Jihad</string>
+    <string name="hr_bukhari26_muslim135">HR Al-Bukhari no 26 dan Muslim no 135</string>
+    <string name="hr_bukharimuslim2635">أَنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سُئِلَ: أَيُّ العَمَلِ أَفْضَلُ؟ فَقَالَ: «إِيمَانٌ بِاللَّهِ وَرَسُولِهِ». قِيلَ: ثُمَّ مَاذَا؟ قَالَ: «الجِهَادُ فِي سَبِيلِ اللَّهِ» قِيلَ: ثُمَّ مَاذَا؟ قَالَ: «حَجٌّ مَبْرُورٌ»
+    \n\n
+    Bahwasanya Rasulullah shallallahu ‘alayhi wa sallam pernah ditanya tentang amal apa yang paling afdal. Kata Rasulullah shallallahu ‘alayhi wa sallam, “Iman kepada Allah dan Rasul-Nya.”. Kemudian beliau ditanyakan lagi, “Kemudian amal apalagi yang afdal setelah itu?”. Beliau menjawab, “(Yaitu) jihad di jalan Allāh Subhānahu wa Ta’āla.”, Kemudian ditanyakan lagi, “Lalu amalan apa lagi yang paling afdal setelah itu?”, Rasulullah shallallahu ‘alayhi wa sallam berkata, “Haji yang mabrur.” (HR Al-Bukhari no 26 dan Muslim no 135).</string>
+    <string name="_6_menghapus_seluruh_dosa">6. Menghapus Seluruh Dosa</string>
+    <string name="hr_bukhari1521_muslim1350">HR Bukhari no 1521 dan Muslim no 1350</string>
+    <string name="hr_bukharimuslim1550">«مَنْ حَجَّ لِلَّهِ فَلَمْ يَرْفُثْ، وَلَمْ يَفْسُقْ، رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ»
+    \n\n
+    “Barangsiapa yang berhaji karena Allah dan dia tidak melakukan rafats dan tidak melakukan kemaksiatan maka dia akan kembali sebagaimana hari dia dilahirkan dari perut ibunya.” (HR Al-Bukhari No. 1521 dan Muslim No. 1350).</string>
+    <string name="_7_pahala_berlimpah_ruah">7. Pahala Berlimpah Ruah</string>
+    <string name="shahih_ibnukhuzaimah_1984">Shahih Ibnu Khuzaimah no 1984</string>
+    <string name="hadits_shahih_ibnukhuzaimah1984">فَإِنَّ لَهُ حِينَ يَخْرُجُ مِنْ بَيْتِهِ أَنَّ رَاحِلَتَهُ لَا تَخْطُو خُطْوَةً إِلَّا كُتِبَ لَهُ بِهَا حَسَنَةٌ أَوْ حُطَّت عَنْهُ بِهَا خَطِيئَةٌ فَإِذَا وَقَفَ بِعَرَفَةَ فَإِنَّ اللَّهَ عَزَّ وَجَلَّ يَنْزِلُ إِلَى السَّمَاءِ الدُّنْيَا فَيَقُولُ: انْظُرُوا إِلَى عِبَادِي شُعثاً غُبراً اشْهَدُوا أَنِّي قَدْ غَفَرْتُ لَهُمْ ذُنُوبَهُمْ وَإِنْ كَانَ عَدَدَ قَطْرِ السَّمَاءِ وَرَمْلِ عالجٍ وَإِذَا رَمَى الْجِمَارَ لَا يَدْرِي أَحَدٌ مَا لَهُ حَتَّى يُوَفَّاهُ يَوْمَ الْقِيَامَةِ وَإِذَا حَلَقَ رَأْسَهُ فَلَهُ بِكُلِّ شَعْرَةٍ سَقَطَتْ مِنْ رَأْسِهِ نُورٌ يَوْمَ الْقِيَامَةِ وَإِذَا قَضَى آخِرَ طَوَافِهِ بِالْبَيْتِ خَرَجَ مِنْ ذُنُوبِهِ كَيَوْمِ وَلَدَتْهُ أمه</string>
+    <string name="arti_shahih_ibnukhuzaimah1984">“Sesungguhnya baginya semenjak ia (seorang yg berhaji) keluar dari rumahnya, bahwasanya tidaklah hewan tunggangannya melangkahkan kakinya selangkah kecuali dicatat baginya sebuah kebaikan atau dihapuskan baginya satu keburukan.
+        \n
+        Jika ia wuquf di Arofah maka Allah turun ke langit dunia lalu Allah berkata : Lihatlah hamba-hambaKu datang memenuhi panggilanKu dalam kondisi rambut semerawut dan penuh dengan debu, maka saksikanlah (wahai para malaikat) sesungguhnya aku telah mengampuni dosa-dosa mereka meskipun sebanyak butiran-butiran air hujan, meskipun sebanyak butiran-butiran pasir yang menjulang.
+        \n
+        Jika ia melempar jamarot maka ia tidak tahu apa ganjaran yang akan ia peroleh hingga Allah akan memenuhi ganjarannya pada hari kiamat.
+        \n
+        Jika ia menggundul kepalanya maka setiap helai rambut yang jatuh dari kepalanya akan menjadi cahaya baginya pada hari kiamat.
+        \n
+        Jika ia telah selesai dari putaran towafnya yang terakhir maka ia keluar dari dosa-dosanya sebagaimana hari ia dilahirkan oleh ibunya” (Shahih Ibni Khuzaimah no 1984, dinyatakan oleh Syaikh Al-Albani : Hasan Lighairihi).</string>
+    <string name="hasan_lighairihi">Hasan Lighairihi</string>
+    <string name="jamaah_haji">Jamaah Haji Tamu Allah</string>
+    <string name="qs_al_hajj_27">QS. Al-Hajj : 27</string>
+    <string name="alhajj27">وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ
+    \n\n
+    “Dan berserulah kepada manusia untuk mengerjakan haji, niscaya mereka akan datang kepadamu dengan berjalan kaki dan mengendarai unta, yang datang dari segenap penjuru yang jauh.” (QS. Al-Hajj : 27).</string>
+    <string name="hr_ibnumajah_2884">HR Ibnu Majah no 2884</string>
+    <string name="hr_ibnumajah2884">الحُجَّاجُ وَالْعُمَّارُ وَفْدُ اللهِ، دَعَاهُمْ فَأَجَابُوْهُ، سَأَلُوْهُ فَأَعْطَاهُمْ
+    \n\n
+    “Sesungguhnya para jama’ah haji dan para jama’ah umrah adalah tamu Allāh, Allāh telah panggil mereka dan mereka pun memenuhi panggilan Allāh. Lantas setelah merekapun setelah memenuhi panggilan Allāh (sebagai tamu-tamu Allāh), lantas mereka memohon kepada Allāh, maka Allāh pun mengabulkan permohonan mereka.” (HR Ibnu Majah nomor 2884).</string>
+    <string name="assahihah1820">Assahihah 1820</string>
+    <string name="hr_bukhari_1593">HR Bukhari no 1593</string>
+    <string name="hr_bukhari1593">لَيُحَجَّنَّ البَيْتُ وَلَيُعْتَمَرَنَّ بَعْدَ خُرُوجِ يَأْجُوجَ وَمَأْجُو
+    \n\n
+    “Sungguh bahwasanya Ka’bah ini, orang akan datang berhaji kepadanya, dan orang-orang akan berumrah kepada Ka’bah, meskipun setelah keluarnya Ya’juj dan Ma’juj.” (HR Al-Bukhari No. 1593).</string>
+    <string name="segera_mendapat_predikat">Segera Mendapat Predikat \'Tamu Allah\'</string>
+    <string name="hr_ibnumajah_2874">HR Ibnu Majah no 2874</string>
+    <string name="hr_ibnumajah2874">مَنْ أَرَادَ الْحَجَّ فَلْيَتَعَجَّلْ فَإِنَّهُ قَدْ يَمْرَضُ الْمَرِيْضُ وَتَضِلُّ الضَالَّةُ وَتَعْرِضُ الْحَاجَةُ
+    \n\n
+    “Barangsiapa ingin berhaji maka bersegeralah, karena sesungguhnya bisa jadi seorang itu sakit, bisa jadi tunggangannya yang dia gunakan untuk berhaji ternyata hilang (tidak bisa dia gunakan lagi artinya ada halangan), bisa jadi ada kebutuhan yang datang (sehingga dia tidak bisa berhaji).” (HR Ibnu Majah No. 2874 dan dishahihkan oleh Al-Albani namun dilemahkan oleh sebagian ulama).</string>
+    <string name="dilemahkan_ulama">dishahihkan Al–Albani Tetapi Dilemahkan Beberapa Ulama</string>
+    <string name="bersabar">Bersabar</string>
+    <string name="hr_bukhari1787_muslim1211">HR Bukhari no 1787 dan 1211</string>
+    <string name="hr_bukharimuslim_1711">ولَكِنَّهَا عَلَى قَدْرِ نَفَقَتِكِ أوْ نَصَبكِ
+    \n\n
+    “Akan tetapi ganjarannya itu berdasarkan ukuran nafkahmu atau keletihanmu” (HR Al-Bukhari no 1787 dan Muslim no 1211).</string>
+    <string name="hr_baihaqi_8643">HR Al-Baihaqi dalam As-Sunan Al-Kubro no 8643</string>
+    <string name="hr_baihaqi8643">وَلَكِنَّهُ عَلَى قَدْرِ عَنَائِكِ وَنَصَبِكِ
+    \n\n
+    “Akan tetapi pahalanya sesuai kadar kesulitanmu dan keletihanmu” (HR Al-Baihaqi dalam As-Sunan Al-Kubro no 8643)</string>
+    <string name="ikhlas_dalam_haji">Ikhlas Dalam Haji</string>
+    <string name="dishahihkan_al_albani_2617">Dishahihkan oleh Al-Albani dalam As-Shahihah no 2617</string>
+    <string name="dishahihkan_al_albani2617">اللَّهُمَّ هَذِهِ حَجَّةٌ لاَ رِيَاءَ فِيْهَا وَلاَ سُمْعَةَ
+    \n\n
+    “Ya Allah ini adalah haji yang tidak ada riyaa’ padanya dan tidak juga sumáh” (Dishahihkan oleh Al-Albani dalam As-Shahihah no 2617).</string>
+    <string name="hr_bukhari1521_muslim1350_2">HR Bukhari no 1521 dan Muslim no 1350</string>
+    <string name="hr_bukharimuslim1550_2">«مَنْ حَجَّ لِلَّهِ فَلَمْ يَرْفُثْ، وَلَمْ يَفْسُقْ، رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ»
+    \n\n
+    “Barangsiapa yang berhaji karena Allāh dan dia tidak melakukan rafats dan tidak melakukan kemaksiatan tatkala sedang berhaji maka dia akan kembali sebagaimana hari dia dilahirkan dari perut ibunya.” (HR Al-Bukhari No. 1521 dan Muslim No. 1350).</string>
+    <string name="meneladani_nabi">Meneladani Nabi</string>
+    <string name="hr_bukhari1605_muslim1270">HR Bukhari no 1605 dan Muslim no 1270</string>
+    <string name="hr_bukharimuslim1670">«أَمَا وَاللَّهِ، إِنِّي لَأَعْلَمُ أَنَّكَ حَجَرٌ لاَ تَضُرُّ وَلاَ تَنْفَعُ، وَلَوْلاَ أَنِّي رَأَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ اسْتَلَمَكَ مَا اسْتَلَمْتُكَ»
+    \n\n
+    “Ketahuilah, demi Allah, sesungguhnya aku benar-benar tahu bahwasanya engkau hanyalah batu, engkau tidak memberi mudhorot dan juga manfaat. Dan kalau bukan karena aku melihat Nabi shallallahu álaihi wasallam mengusapmu maka aku tidak akan mengusapmu” (HR Al-Bukhari no 1605 dan Muslim no 1270).</string>
+    <string name="hr_bukhari_1579">HR Bukhari no 1579</string>
+    <string name="hr_bukhari1579">وَلَوْلاَ أَنِّي رَأَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُقَبِّلُكَ مَا قَبَّلْتُكَ
+    \n\n
+    “Kalau bukan karena aku telah melihat Nabi shallallahu álaihi wasallam menciummu maka aku tidak akan menciummu” (HR Al-Bukhari no 1579).</string>
+    <string name="hr_muslim_1297">HR Muslim no 1297</string>
+    <string name="hr_muslim1297">رَأَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَرْمِي عَلَى رَاحِلَتِهِ يَوْمَ النَّحْرِ، وَيَقُولُ: «لِتَأْخُذُوا مَنَاسِكَكُمْ، فَإِنِّي لَا أَدْرِي لَعَلِّي لَا أَحُجُّ بَعْدَ حَجَّتِي هَذِهِ»
+    \n\n
+    “Aku melihat Nabi shallallahu álaihi wasallam di atas ontanya pada hari Nahar melempar Jamroh dan beliau berkata, “Hendaknya kalian mengambil tata cara manasik kalian, sesungguhnya aku tidak tahu bisa jadi aku tidak lagi berhaji setelah hajiku ini” (HR Muslim no 1297).</string>
+    <string name="annawawi_alminhaaj">An–Nawawi, Al–Minhaaj Syarh Shahih Muslim 9/45</string>
+    <string name="annawawi_alminhaaj945">وَهَذَا الْحَدِيثُ أَصْلٌ عَظِيمٌ فِي مَنَاسِكِ الْحَجِّ وَهُوَ نَحْوُ قَوْلِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الصَّلَاةِ صَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي وَقَوْلُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ (لَعَلِي لَا أَحُجُّ بَعْدَ حَجَّتِي هَذِهِ) فِيهِ إِشَارَةٌ إِلَى تَوْدِيعِهِمْ وَإِعْلَامِهِمْ بِقُرْبِ وَفَاتِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَحَثِّهِمْ عَلَى الِاعْتِنَاءِ بِالْأَخْذِ عَنْهُ
+    \n\n
+    “Hadits ini adalah landasan yang agung dalam manasik haji, dan ini seperti sabda Nabi shallallahu álaihi wasallam dalam sholat, “Sholatlah sebagaimana kalian melihatku sholat”. Dan sabda Nabi shallallahu álaihi wasallam, “Bisa jadi aku tidak berhaji lagi setelah hajiku ini”memberi isyarat bahwa beliau menyampaikan perpisahan kepada para sahabat dan pemberitahuan kepada mereka akan dekatnya ajal beliau shallallahu álaihi wasallam dan motivasi beliau terhadap mereka agar perhatian dalam mengambil manasik dari beliau” (al-Minhaaj syarh Shahih Muslim 9/45).</string>
+    <string name="jangan_berdebat">Jangan Berdebat</string>
+    <string name="qs_al_baqarah_197">QS Al-Baqarah : 197</string>
+    <string name="albaqarah197_pendek">وَلَا جِدَالَ فِي الْحَجِّ
+    \n\n
+    “Dan tidak boleh berbantah-bantahan di dalam masa mengerjakan haji” (QS Al-Baqoroh : 197).</string>
+    <string name="assadi">As-Sa\'di, Tafsir Al-Kariim Ar-Rahmaan hal 92</string>
+    <string name="assadi92">وَالْمَقْصُوْدُ مِنَ الْحَجِّ، الذُّلُّ وَالاِنْكِسَارُ للهِ، وَالتَّقَرُّبُ إِلَيْهِ بِمَا أَمْكَنَ مِنَ الْقُرُبَاتِ، وَالتَّنَزُّهُ عَنْ مُقَارَفَةِ السَّيِّئَاتِ، فَإِنَّهُ بِذَلِكَ يَكُوْنُ مَبْرُوْرًا، وَالْمَبْرُوْرُ لَيْسَ لَهُ جَزَاءٌ إِلاَّ الْجَنَّةُ، وَهَذِهِ الأَشْيَاءُ وَإِنْ كَانَتْ مَمْنُوْعَةً فِي كُلِّ مَكَانٍ وَزَمَانٍ، فَإِنَّهَا يَتَغَلَّظُ الْمَنْعُ عَنْهَا فِي الْحَجِّ
+    \n\n
+    “Tujuan dari haji adalah merendahkan dan menghinakan diri di hadapan Allah, mendekatkan diri kepadaNya semaksimal mungkin dengan kebajikan-kebajikan, serta membersihkan diri dari melakukan hal-hal yang buruk. Dengan demikian maka jadilah haji mabur, dan haji mabrur tidak ada balasan yang setimpal kecuali surga. Meskipun perkara-perkara ini (diantaranya perdebatan) dilarang di setiap tempat dan waktu akan tetapi lebih terlarang lagi tatkala haji” (As-Sa'di, Tafsiir al-Kariim ar-Rahmaan hal 92).</string>
+    <string name="hindari_maksiat">Hindari Maksiat</string>
+    <string name="albaqarah197">الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ فَمَنْ فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ
+    \n\n
+    "(Musim) haji adalah beberapa bulan yang dimaklumi, barangsiapa yang menetapkan niatnya dalam bulan itu akan mengerjakan haji, maka tidak boleh rafats, berbuat fasik dan berbantah-bantahan di dalam masa mengerjakan haji. Dan apa yang kamu kerjakan berupa kebaikan, niscaya Allah mengetahuinya. Berbekallah, dan sesungguhnya sebaik-baik bekal adalah takwa dan bertakwalah kepada-Ku hai orang-orang yang berakal" (QS Al-Baqoroh : 197).</string>
+    <string name="hr_bukharimuslim1550_3">«مَنْ حَجَّ لِلَّهِ فَلَمْ يَرْفُثْ، وَلَمْ يَفْسُقْ، رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ»
+    \n\n
+    “Barangsiapa yang berhaji karena Allāh dan dia tidak melakukan rafats dan tidak melakukan kemaksiatan maka dia akan kembali sebagaimana hari dia dilahirkan dari perut ibunya.” (HR Al-Bukhari No. 1521 dan Muslim No. 1350).</string>
+    <string name="ibnuhazm">Ibnu Hazm Rahimahullah, Al-Muhalla 5/197</string>
+    <string name="ibnuhazm5197">وَكُلُّ مَنْ تَعَمَّدَ مَعْصِيَةً أَيَّ مَعْصِيَةٍ كَانَتْ – وَهُوَ ذَاكِرٌ لِحَجِّهِ مُذْ يُحْرِمُ إلَى أَنْ يُتِمَّ طَوَافَهُ بِالْبَيْتِ لِلْإِفَاضَةِ وَيَرْمِيَ الْجَمْرَةَ – فَقَدْ بَطَلَ حَجُّهُ؛
+    \n\n
+    “Siapa saja yang sengaja melakukan kemaksiatan -maksiat apapupun juga- dan dia dalam kondisi ingat ia sedang berhaji, mulai dari sejak ihram hingga ia menyelesaikan thawaf ifadohnya di ka’bah dan melempar jamroh, maka hajinya batal.” (Ibnu Hazm Rahimahullah, Al-Muhalla 5/197).</string>
+    <string name="ibnu_baaz">Fataawaa Ibnu Baaz 5/139</string>
+    <string name="ibnubaaz5139">كَمَا أَنَّهُ يَحْرِصُ كُلَّ الْحِرْصِ عَلَى الْبُعْدِ عَنْ كُلِّ مَا حَرَّمَ اللهُ مِنْ سَائِرِ الْمَعَاصِي، وَمِنْ جُمْلَةِ ذَلِكَ إِيْذَاءُ الْعِبَادِ، فَإِنَّ ذَلِكَ مِنْ أَكْبَرِ الْمُحَرَّمَاتِ، وَإِذَا كَانَ مَعَ حُجَّاجِ بَيْتِ اللهِ الْحَرَامِ وَمَعَ الْعُمَّارِ صَارَ الظُّلْمُ أَكْثَرَ إِثْمًا، وَأَشَدَّ عُقُوْبَةً، وَأَسْوَأَ عَاقِبَةً
+    \n\n
+    “Sebagaimana dia juga berusaha semaksimal mungkin untuk menjauhkan diri dari semua kemaksiatan yang diharamkan oleh Allah. Diantaranya menganggu orang lain, hal itu termasuk keharaman yang terbesar. Dan jika gangguan tersebut kepada para jamaah haji dan juga jamaah ‘umroh maka kedzolimannya semakin besar dosanya, hukumannya semakin berat, dan akibatnya semakin buruk” (Fataawaa Ibnu Baaz 5/139).</string>
+    <string name="berhaji_dengan_harta_halal">Berhaji Dengan Harta Halal</string>
+    <string name="albaqarah197_2">وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى
+    \n\n
+    “Berbekalah (tatkala berhaji), sesungguhnya sebaik-baik bekal adalah ketakwaan” (QS Al-Baqoroh : 197).</string>
+    <string name="mencari_pertemanan">Mencari Pertemanan yang Baik Dalam Perjalanan</string>
+    <string name="hr_tirmidzi_2738">HR Tirmidzi no 2738</string>
+    <string name="hr_tirmidzi2738">الرَّجُلُ عَلَى دِينِ خَلِيلِهِ، فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ
+    \n\n
+    “Seseorang di atas agama sahabatnya, maka hendaknya salah seorang dari kalian melihat siapa yang hendak ia jadikan sahabatnya” (HR At-Tirmidzi no 2378).</string>
+    <string name="hakikat_talbiyah">Hakikat Talbiyah</string>
+    <string name="hr_bukhari1549_muslim1184">HR Bukhari no 1549 dan Muslim no 1184</string>
+    <string name="hr_bukharimuslim1584">لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الحَمْدَ وَالنِّعْمَةَ لَكَ وَالمُلْكَ، لاَ شَرِيكَ لَكَ
+    \n\n
+    "Ya Allah aku memenuhi panggilanMu, Ya Allah aku memenuhi panggilanMu, tidak ada sekutu bagiMu, sesungguhnya pujian dan kenikmatan hanya milikMu, dan kerajaan hanyalah milikMu, tiada sekutu bagiMu” (HR Al-Bukhari no 1549 dan Muslim no 1184).</string>
+    <string name="hr_muslim_1218">HR Muslim 1218</string>
+    <string name="hr_muslim1218">فَأَهَلَّ بِالتَّوْحِيدِ «لَبَّيْكَ اللهُمَّ، لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ، وَالْمُلْكَ لَا شَرِيكَ لَكَ»
+    \n\n
+    “Maka Nabipun bertalbiyah dengan tauhid, Labbaik Allahumma Labbaiik….” (HR Muslim no 1218).</string>
+    <string name="hr_ahmad_ibnumajah_abudawud_tirmidzi_annasai">HR Ahmad no 16567, Ibnu Majah no 2922, Abu Dawud no 1814, At-Tirmidzi no 829, An-Nasaai no 2753</string>
+    <string name="hr_16567_2922_1814_829_2753">أَتَانِي جِبْرِيلُ عَلَيْهِ السَّلَامُ فَقَالَ: أَنْ آمُرَ أَصْحَابِي، أَوْ مَنْ مَعِي أَنْ يَرْفَعُوا أَصْوَاتَهُمْ بِالتَّلْبِيَةِ
+    \n\n
+    “Jibril ‘alaihis salam datang kepadaku lalu memerintahkan aku agar aku memerintahkan para sahabatku atau yang sedang bersamaku untuk mengeraskan suara mereka dengan talbiyah” (HR Ahmad no 16567, Ibnu Majah no 2922, Abu Dawud no 1814, At-Tirmidzi no 829 dan An-Nasaai no 2753).</string>
+    <string name="hr_muslim_1247">HR Muslim no 1247</string>
+    <string name="hr_muslim1247">خَرَجْنَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَصْرُخُ بِالْحَجِّ صُرَاخًا
+    \n\n
+    “Kami keluar / bersafar bersama Rasulullah shallallahu álaihi wasallam, kami sungguh berteriak dengan talbiyah haji” (HR Muslim no 1247).</string>
+    <string name="hr_thabrani_1621">HR Thabrani</string>
+    <string name="hr_thabrani1621">مَا أَهَلَّ مُهِلٍّ قَطٌّ وَلاَ كَبَّرَ مُكَبِّرٌ قَطٌّ إِلاَّ بُشِّرَ بِالْجَنَّةِ
+    \n\n
+    “Tidaklah seorangpun yang berihlaal (bertalbiyah) dan tidak pula seorangpun yang bertakbir kecuali diberi kabar gembira dengan surga” (HR At-Thabrani dan dishahihkan oleh Al-Albani dalam As-Shahihah no 1621).</string>
+    <string name="assahihah_1621">As-Shahihah no 1621</string>
+    <string name="assahihah1621">gaadakaliyagataudahmalesnyaripakebangetgan:v</string>
+
 </resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/meneladani_nabi"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/desc2"
+            android:textSize="10dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/bukharimuslim_1670"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hr_bukhari1605_muslim1270"
+            android:layout_marginLeft="75dp"
+            android:layout_marginTop="15dp"
+            android:textSize="11sp"
+            android:background="@drawable/custom1"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAppearance="@style/Platform.MaterialComponents"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bukhari1579"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hr_bukhari_1579"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp"
+                android:background="@drawable/custom2"
+                android:textSize="11sp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAppearance="@style/Platform.MaterialComponents"/>
+
+            <Button
+                android:id="@+id/muslim_1297"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hr_muslim_1297"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp"
+                android:background="@drawable/custom3"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="11sp"
+                android:textAppearance="@style/Platform.MaterialComponents"/>
+
+            <Button
+                android:id="@+id/annawawi_945"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/annawawi_alminhaaj"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp"
+                android:background="@drawable/custom6"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="11sp"
+                android:textAppearance="@style/Platform.MaterialComponents"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

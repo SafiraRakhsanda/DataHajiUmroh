@@ -9,11 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Bersabar"></activity>
-        <activity android:name=".Predikat" />
-        <activity android:name=".JamaahHaji" />
-        <activity android:name=".KeutamaanHaji" />
-        <activity android:name=".PersiapanHaji" />
+        <activity android:name=".Tampil"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
